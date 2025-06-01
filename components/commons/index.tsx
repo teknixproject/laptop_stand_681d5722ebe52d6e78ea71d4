@@ -19,4 +19,5 @@ export const components = {
   Collapse: dynamic(() => import('./Collapse')),
   CustomWidgete920019b2412: dynamic(() => import('./CustomWidgete920019b2412')),
   CustomWidget0417ed58c97f: dynamic(() => import("./CustomWidget0417ed58c97f")),
+  CustomWidget259ddf0698cb: dynamic(() => import("./CustomWidget259ddf0698cb")),
 };
