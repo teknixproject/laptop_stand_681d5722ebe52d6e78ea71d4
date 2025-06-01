@@ -20,6 +20,4 @@ export const components = {
   CustomWidgete920019b2412: dynamic(() => import('./CustomWidgete920019b2412')),
   CustomWidget0417ed58c97f: dynamic(() => import("./CustomWidget0417ed58c97f")),
   CustomWidget259ddf0698cb: dynamic(() => import("./CustomWidget259ddf0698cb")),
-  CustomWidget6dd8e9578d18: dynamic(() => import("./CustomWidget6dd8e9578d18")),
-  CustomWidgetb7895472cfe2: dynamic(() => import("./CustomWidgetb7895472cfe2")),
-};
+  CustomWidget6dd8e9578d18: dynamic(() => import("./CustomWidget6dd8e9578d18")),};
